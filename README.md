@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Daniel-Carbajal
 - 📫 Reach me at: danbusiness1022@gmail.com
-- 😄 Pronouns: He/Him
 
 <!---
 Daniel-Carbajal/Daniel-Carbajal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
