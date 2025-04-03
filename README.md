@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Daniel-Carbajal
+- I am currently studying Computer Science-Artificial Intelligence at DePaul University
+- I enjoy doing personal programming projects and game dev!
 - 📫 Reach me at: danbusiness1022@gmail.com
 
 <!---
