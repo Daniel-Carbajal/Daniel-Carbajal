@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Carbajal
-- I am currently studying Computer Science-Artificial Intelligence at DePaul University
-- I enjoy doing personal programming projects and game dev!
+- I am currently studying Computer Science-Software Dev and a minor in Network Technologies at DePaul University
+- Here you will find the cybersecurity and programming projects I enjoy working on!
 - 📫 Reach me at: danbusiness1022@gmail.com
 
 <!---
