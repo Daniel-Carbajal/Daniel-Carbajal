@@ -1,5 +1,5 @@
 <h1>👋 Hi There!</h1>
-<p>Thanks for stopping by, here you will find he cybersecurity and programming projects I enjoy working on!</p><br>
+<p>Thanks for stopping by! Here you will find he cybersecurity and programming projects I enjoy working on!</p><br>
 📫 Reach me at: danbusiness1022@gmail.com || dcarbaj4@depaul.edu
 
  
