@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Daniel-Carbajal</h1>
+<h1>👋 Hi There!</h1>
 - I am currently studying Computer Science-Software Dev and a minor in Network Technologies at DePaul University
 - Here you will find the cybersecurity and programming projects I enjoy working on!
 - 📫 Reach me at: danbusiness1022@gmail.com || dcarbaj4@depaul.edu
